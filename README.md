@@ -1,0 +1,1 @@
+Third project for FreeCodeCamp uploaded to Github.It is a DDOS protection website with no functionality.With 1 media query still trying to understand them.But still mobile version kinda sucks.HTML CSS only no JS.
